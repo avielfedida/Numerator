@@ -1,5 +1,5 @@
 <p align="center">
-	<img height="445" width="358" src="http://imagizer.imageshack.us/a/img540/6954/DMF5fw.png">
+	<img height="445" width="358" src="http://i.imgur.com/il7w3BH.png">
 </p>
 
 ---
